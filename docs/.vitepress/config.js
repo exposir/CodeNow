@@ -40,7 +40,7 @@ export default {
 
     },
     head: [
-        ['link', { rel: 'icon', href: '/logo.png' }]
+        ['link', { rel: 'icon', href: '/react.svg' }]
     ],
 
 }
