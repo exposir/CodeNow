@@ -23,9 +23,9 @@ features:
     link: /pages/react-magic/理念篇
   - icon:
       src: /cool-feature-icon.svg
-    title: Another cool feature
+    title: React 教程
     details: Lorem ipsum...
-    link: https://github.com/vuejs/vitepress
+    link: /pages/react/引言
   - icon:
       dark: /dark-feature-icon.svg
       light: /light-feature-icon.svg
