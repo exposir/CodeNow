@@ -17,6 +17,16 @@ export default {
                     { text: '架构篇', link: '/pages/react-magic/架构篇' },
                     { text: '实现篇', link: '/pages/react-magic/实现篇' },
                 ]
+            },
+            '/pages/reac': {
+                text: 'React 教程',
+                items: [
+                    { text: '引言', link: '/pages/react/引言' },
+                    { text: '环境准备', link: '/pages/react/环境准备' },
+                    { text: 'JSX 简介', link: '/pages/react/JSX 简介' },
+                    { text: '组件和 Props', link: '/pages/react/组件和 Props' },
+
+                ]
             }
         },
 
