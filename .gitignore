@@ -15,3 +15,5 @@ yarn-error.log
 
 # macOS files
 .DS_Store
+
+.vitepress
