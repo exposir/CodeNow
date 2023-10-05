@@ -6,8 +6,10 @@ export default {
     themeConfig: {
         nav: [
             { text: '首页', link: '/index' },
+            { text: 'JavaScript 教程', link: '/pages/react/引言' },
+            { text: 'React 教程', link: '/pages/react/引言' },
             { text: 'React 技术揭秘', link: '/pages/react-magic/理念篇' },
-            { text: 'Changelog', link: 'markdown-examples' }
+            { text: '关于', link: 'about' }
         ],
         sidebar: {
             '/pages/react-magic': {
@@ -40,7 +42,7 @@ export default {
 
     },
     head: [
-        ['link', { rel: 'icon', href: '/logo.png' }]
+        ['link', { rel: 'icon', href: '/react.svg' }]
     ],
 
 }
