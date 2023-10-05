@@ -8,7 +8,7 @@ export default {
             { text: 'JavaScript 教程', link: '/pages/react/引言' },
             { text: 'React 教程', link: '/pages/react/引言' },
             { text: 'React 技术揭秘', link: '/pages/react-magic/理念篇' },
-            { text: '关于', link: 'about' }
+            { text: '关于', link: '/pages/about' }
         ],
         sidebar: {
             '/pages/react-magic': {
