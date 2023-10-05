@@ -1,8 +1,7 @@
 export default {
     lang: 'zh-ZH',
     title: '即刻编程',
-    description: 'Just coding now.',
-    siteTitle: 'Hello World',
+    description: '编程从未如此容易',
     themeConfig: {
         nav: [
             { text: '首页', link: '/index' },
