@@ -8,7 +8,7 @@ export default {
       { text: "JavaScript 教程", link: "/pages/react/引言" },
       { text: "React 教程", link: "/pages/react/引言" },
       { text: "React 技术揭秘", link: "/pages/react-magic/理念篇" },
-      { text: "关于", link: "/pages/about" },
+      { text: "关于", link: "/pages/about" }
     ],
     sidebar: {
       "/pages/react-magic": {
@@ -16,8 +16,8 @@ export default {
         items: [
           { text: "理念篇", link: "/pages/react-magic/理念篇" },
           { text: "架构篇", link: "/pages/react-magic/架构篇" },
-          { text: "实现篇", link: "/pages/react-magic/实现篇" },
-        ],
+          { text: "实现篇", link: "/pages/react-magic/实现篇" }
+        ]
       },
       "/pages/reac": {
         text: "React 教程",
@@ -25,20 +25,19 @@ export default {
           { text: "引言", link: "/pages/react/引言" },
           { text: "环境准备", link: "/pages/react/环境准备" },
           { text: "JSX 简介", link: "/pages/react/JSX 简介" },
-          { text: "组件和 Props", link: "/pages/react/组件和 Props" },
-        ],
-      },
+          { text: "组件和 Props", link: "/pages/react/组件和 Props" }
+        ]
+      }
     },
 
     footer: {
       message:
         'Released under the <a href="https://github.com/vuejs/vitepress/blob/main/LICENSE">MIT License</a>.',
-      copyright:
-        'Copyright © 2019-present <a href="https://github.com/exposir">Expo</a>',
+      copyright: 'Copyright © 2019-present <a href="https://github.com/exposir">Expo</a>'
     },
     search: {
-      provider: "local",
-    },
+      provider: "local"
+    }
   },
-  head: [["link", { rel: "icon", href: "/react.svg" }]],
+  head: [["link", { rel: "icon", href: "/react.svg" }]]
 };
