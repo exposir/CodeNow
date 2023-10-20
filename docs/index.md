@@ -2,8 +2,8 @@
 layout: home
 
 hero:
-  name: 即刻编程
-  text: 编程中从未如此容易。
+  name: 即刻教程
+  text: 学习编程中从未如此容易。
   tagline: Let's Coding Now !
   image:
     src: /react.svg

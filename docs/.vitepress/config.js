@@ -1,6 +1,6 @@
 export default {
   lang: "zh-ZH",
-  title: "即刻编程",
+  title: "即刻教程",
   description: "编程从未如此容易",
   themeConfig: {
     nav: [
